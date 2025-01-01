@@ -9,3 +9,5 @@
 
 - I just looked at the [Keycloak.org Guides](https://www.keycloak.org/guides) this is one of the best self build guides i came across.
 - I am just gonna interpret the docs from there and document for my understanding.
+- Every project requires scope so we keep our explorative lens in check.
+- After the python and anaconda testing mind spiral we need more structure here also remember how far AWS airflow went to? so we need a precise scope of the project.
