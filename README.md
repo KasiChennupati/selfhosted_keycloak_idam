@@ -18,3 +18,7 @@ Some Example application to try out with are
 - [minio](https://www.min.io/)
 - [mealie](https://mealie.io/)
 - [xwiki](https://www.xwiki.org/xwiki/bin/view/Main/)
+
+## License
+
+[MIT License](/License.txt)
