@@ -1,9 +1,26 @@
-# Notes
+# Thoughts and Notes
+
+## 2025-01-05
+
+## 2025-01-04
+
+- Glad to see many youtube sources to learn more about the technology i am definitely excited to see what others are thinking about this.
+
+## 2025-01-03
+
+- Is it worth while to collaborate with wider group to keep this repo centralised for a small community? probably will do it in future not now.
+
+## 2025-01-02
+
+- while reading about keycloak i found that more and more companies and enterprise grade applications use this platform for managing idam for their usecase. Looks like i made a valid choice.
+- This project might be useful to other fellow technology enthusiasts so i will go with MIT License for the repository.
+- More i read about this i realise keycloak guys have made it so much easy for the mere humans to get started and use keycloak in the environments. 
+- I am spiraling and going deep in to the explorative rabbit hole so probably need to create a scope for the repo to keep it on track and specific to what i need to do.
 
 ## 2025-01-01
 
 - Started the project basically want to understand more about idam and keycloak.
-- How about setting up keycloak as a central identity provider for my homelab. This might be an overkill but i get to have fun. 
+- How about setting up keycloak as a central identity provider for my homelab. This might be an overkill but i get to have fun.
 
 > If you don't enjoy doing something there is no point in doing it after 5 PM.
 
