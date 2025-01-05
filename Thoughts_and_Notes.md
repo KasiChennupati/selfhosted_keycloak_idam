@@ -2,6 +2,9 @@
 
 ## 2025-01-05
 
+- more i am working on this project i am thinking this might end up like my mediawiki project ironically the mediawiki project structure changed very often it was a project structure nightmare.
+- I will focus this week to come up with a structure that is best for my use case.
+
 ## 2025-01-04
 
 - Glad to see many youtube sources to learn more about the technology i am definitely excited to see what others are thinking about this.
