@@ -19,6 +19,10 @@ Some Example application to try out with are
 - [mealie](https://mealie.io/)
 - [xwiki](https://www.xwiki.org/xwiki/bin/view/Main/)
 
+## Notes
+
+A deep dive in to my thought process and notes is in my [Thoughts_and_Notes.md](/Thoughts_and_Notes.md)
+
 ## License
 
 [MIT License](/License.txt)
