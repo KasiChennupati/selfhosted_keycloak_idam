@@ -1,5 +1,10 @@
 # Thoughts and Notes
 
+## 2025-01-06
+
+- A base layout for the high level project directory is a good base foundation for the structure.
+- probably a good idea to consider some popular software repository structure templates.
+
 ## 2025-01-05
 
 - more i am working on this project i am thinking this might end up like my mediawiki project ironically the mediawiki project structure changed very often it was a project structure nightmare.
