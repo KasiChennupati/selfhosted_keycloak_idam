@@ -8,13 +8,13 @@ Keycloak and a OIDC applications expose the following set of endpoints important
 
 __Endpoints:__
 
-- Authorization endpoint
-- Token endpoint
-- Userinfo endpoint
-- Logout endpoint
-- Certificate endpoint
-- Introspection endpoint
-- Dynamic Client Registration endpoint
-- Token Revocation endpoint
-- Device Authorization endpoint
-- Backchannel Authentication endpoint
+- [Authorization Endpoint](/docs/keycloak_endpoints/API_Authorization_Endpoint.md)
+- Token Endpoint
+- Userinfo Endpoint
+- Logout Endpoint
+- Certificate Endpoint
+- Introspection Endpoint
+- Dynamic Client Registration Endpoint
+- Token Revocation Endpoint
+- Device Authorization Endpoint
+- Backchannel Authentication Endpoint
