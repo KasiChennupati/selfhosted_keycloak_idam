@@ -2,9 +2,11 @@
 
 Keycloak is a OIDC compatible application, so it exposes a group of endpoints to enable authentication and authorisation for web applications.
 
-> /realms/{realm-name}/.well-known/openid-configuration
+`/realms/{realm-name}/.well-known/openid-configuration`
 
 Keycloak and a OIDC applications expose the following set of endpoints importantly
+
+__Endpoints:__
 
 - Authorization endpoint
 - Token endpoint
@@ -16,5 +18,3 @@ Keycloak and a OIDC applications expose the following set of endpoints important
 - Token Revocation endpoint
 - Device Authorization endpoint
 - Backchannel Authentication endpoint
-
-## Endpoints
