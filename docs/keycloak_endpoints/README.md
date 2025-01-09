@@ -10,7 +10,7 @@ __Endpoints:__
 
 - [Authorization Endpoint](/docs/keycloak_endpoints/API_Authorization_Endpoint.md)
 - [Token Endpoint](/docs/keycloak_endpoints/API_Token_Endpoint.md)
-- Userinfo Endpoint
+- [Userinfo Endpoint](/docs/keycloak_endpoints/API_Userinfo_Endpoint.md)
 - Logout Endpoint
 - Certificate Endpoint
 - Introspection Endpoint
