@@ -9,7 +9,7 @@ Keycloak and a OIDC applications expose the following set of endpoints important
 __Endpoints:__
 
 - [Authorization Endpoint](/docs/keycloak_endpoints/API_Authorization_Endpoint.md)
-- Token Endpoint
+- [Token Endpoint](/docs/keycloak_endpoints/API_Token_Endpoint.md)
 - Userinfo Endpoint
 - Logout Endpoint
 - Certificate Endpoint
