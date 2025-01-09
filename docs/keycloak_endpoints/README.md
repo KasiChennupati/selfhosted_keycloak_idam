@@ -12,7 +12,7 @@ __Endpoints:__
 - [Token Endpoint](/docs/keycloak_endpoints/API_Token_Endpoint.md)
 - [Userinfo Endpoint](/docs/keycloak_endpoints/API_Userinfo_Endpoint.md)
 - [Logout Endpoint](/docs/keycloak_endpoints/API_Logout_Endpoint.md)
-- Certificate Endpoint
+- [Certificate Endpoint](/docs/keycloak_endpoints/API_Certificate_Endpoint.md)
 - Introspection Endpoint
 - Dynamic Client Registration Endpoint
 - Token Revocation Endpoint
