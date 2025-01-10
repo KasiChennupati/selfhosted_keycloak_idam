@@ -15,6 +15,6 @@ __Endpoints:__
 - [Certificate Endpoint](/docs/keycloak_endpoints/API_Certificate_Endpoint.md)
 - [Introspection Endpoint](/docs/keycloak_endpoints/API_Introspection_Endpoint.md)
 - [Dynamic Client Registration Endpoint](/docs/keycloak_endpoints/API_Dynamic_Client_Registration_Endpoint.md)
-- Token Revocation Endpoint
+- [Token Revocation Endpoint](/docs/keycloak_endpoints/API_Token_Revocation_Endpoint.md)
 - Device Authorization Endpoint
 - Backchannel Authentication Endpoint
