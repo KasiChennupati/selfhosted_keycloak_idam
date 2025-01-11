@@ -37,6 +37,26 @@ selfhosted_keycloak_idam/
 └── .gitignore                      # Git ignore file to exclude 
 ```
 
+## Quick Start
+
+The below command will get us started with keycloak much faster
+
+```bash
+docker run -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:26.0.7 start-dev
+```
+
+## Configuration
+
+The keycloak requires an element of configuration values and parameters the basic environment variables are below 
+
+```ini
+
+KC_BOOTSTRAP_ADMIN_USERNAME=admin
+KC_BOOTSTRAP_ADMIN_PASSWORD=admin
+KC_PORT=8080
+
+```
+
 ## Notes
 
 A deep dive in to my thought process and notes is in my [Thoughts_and_Notes.md](/Thoughts_and_Notes.md)
